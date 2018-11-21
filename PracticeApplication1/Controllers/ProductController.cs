@@ -11,7 +11,7 @@ namespace PracticeApplication1.Controllers
 {
     public class ProductController : Controller
     {
-        public const int PAGE_NUMBER = 5;
+        public const int PAGE_NUMBER = 7;
         private ProductRepository fProductRepository = null;
 
         public ProductController()
